@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Polimorfismo1",
-        "Animais_Regiao_Estados"
+        "Animais_Regiao_Estados",
+        "simulado"
     ]
 }
