@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Aluno"/>
+	<classpathentry kind="src" path="Diversos"/>
+	<classpathentry kind="src" path="AlunoB"/>
+	<classpathentry kind="src" path="AlunoC"/>
+	<classpathentry kind="src" path="Construtores"/>
+	<classpathentry kind="src" path="AlunoD"/>
+	<classpathentry kind="src" path="AlunoE"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Build"/>
+</classpath>
