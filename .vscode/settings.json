@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "ProjetoFuncionario1_3"
+        "ProjetoFuncionario1_3",
+        "Interfaces"
     ]
 }
