@@ -1,14 +1,14 @@
-package src.teste;
+package teste;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import src.telas.TelaAnimalV2;
-import src.dominio.Animal;
-import src.dominio.Cao;
-import src.dominio.Estado;
-import src.dominio.Gato;
-import src.dominio.Regiao;
+import dominio.Estado;
+import telas.TelaAnimalV2;
+import dominio.Animal;
+import dominio.Cao;
+import dominio.Gato;
+import dominio.Regiao;
 
 public class Teste {
 

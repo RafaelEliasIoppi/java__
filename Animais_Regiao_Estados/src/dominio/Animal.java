@@ -1,4 +1,4 @@
-package src.dominio;
+package dominio;
 
 public abstract class Animal {
 

@@ -1,4 +1,4 @@
-package src.dominio;
+package dominio;
 
 public class Gato extends Animal{
 

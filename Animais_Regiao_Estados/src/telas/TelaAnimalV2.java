@@ -1,9 +1,9 @@
-package src.telas; 
+package telas; 
 import java.util.List;
 
-import src.dominio.Animal;
-import src.dominio.Estado;
-import src.dominio.Regiao;
+import dominio.Estado;
+import dominio.Animal;
+import dominio.Regiao;
 
 
 public class TelaAnimalV2 {

@@ -1,0 +1,287 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "teste.Teste",
+            "projectName": "Animais_Regiao_Estados"
+        },
+        {
+            "type": "java",
+            "name": "TestaAssociacao1a",
+            "request": "launch",
+            "mainClass": "associacao1.TestaAssociacao1a",
+            "projectName": "Associacoes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAssociacao1b",
+            "request": "launch",
+            "mainClass": "associacao1.TestaAssociacao1b",
+            "projectName": "Associacoes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAssociacao2",
+            "request": "launch",
+            "mainClass": "associacao2.TestaAssociacao2",
+            "projectName": "Associacoes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAssociacao3",
+            "request": "launch",
+            "mainClass": "associacao3.TestaAssociacao3",
+            "projectName": "Associacoes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAssociacao4a",
+            "request": "launch",
+            "mainClass": "associacao4.testes.TestaAssociacao4a",
+            "projectName": "Associacoes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAssociacao4b",
+            "request": "launch",
+            "mainClass": "associacao4b.testes.TestaAssociacao4b",
+            "projectName": "Associacoes"
+        },
+        {
+            "type": "java",
+            "name": "TestaComposicao1",
+            "request": "launch",
+            "mainClass": "composicao1.TestaComposicao1",
+            "projectName": "Associacoes"
+        },
+        {
+            "type": "java",
+            "name": "TestaComposicao2",
+            "request": "launch",
+            "mainClass": "composicao2.TestaComposicao2",
+            "projectName": "Associacoes"
+        },
+        {
+            "type": "java",
+            "name": "BlocosInicializa",
+            "request": "launch",
+            "mainClass": "BlocosInicializa",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "ConstrutorA",
+            "request": "launch",
+            "mainClass": "ConstrutorA",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "ConstrutorB",
+            "request": "launch",
+            "mainClass": "ConstrutorB",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "ConstrutorC",
+            "request": "launch",
+            "mainClass": "ConstrutorC",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "ConstrutorD",
+            "request": "launch",
+            "mainClass": "ConstrutorD",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "ConstrutorE",
+            "request": "launch",
+            "mainClass": "ConstrutorE",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAluno",
+            "request": "launch",
+            "mainClass": "TestaAluno",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAlunoB1",
+            "request": "launch",
+            "mainClass": "TestaAlunoB1",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAlunoB2",
+            "request": "launch",
+            "mainClass": "TestaAlunoB2",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAlunoC1",
+            "request": "launch",
+            "mainClass": "TestaAlunoC1",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAlunoC2",
+            "request": "launch",
+            "mainClass": "TestaAlunoC2",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAlunoC5",
+            "request": "launch",
+            "mainClass": "TestaAlunoC5",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAlunoD1",
+            "request": "launch",
+            "mainClass": "TestaAlunoD1",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAlunoD2",
+            "request": "launch",
+            "mainClass": "TestaAlunoD2",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAlunoD4",
+            "request": "launch",
+            "mainClass": "TestaAlunoD4",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAlunoE1",
+            "request": "launch",
+            "mainClass": "TestaAlunoE1",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAlunoE2",
+            "request": "launch",
+            "mainClass": "TestaAlunoE2",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "TestaAlunoH",
+            "request": "launch",
+            "mainClass": "TestaAlunoH",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "TestaConstrutores",
+            "request": "launch",
+            "mainClass": "TestaConstrutores",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "TestaMetodo2",
+            "request": "launch",
+            "mainClass": "TestaMetodo2",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "TestaMetodos",
+            "request": "launch",
+            "mainClass": "TestaMetodos",
+            "projectName": "Classes"
+        },
+        {
+            "type": "java",
+            "name": "Teste2",
+            "request": "launch",
+            "mainClass": "testes.Teste2",
+            "projectName": "Interfaces"
+        },
+        {
+            "type": "java",
+            "name": "Teste1",
+            "request": "launch",
+            "mainClass": "testes.Teste1",
+            "projectName": "Polimorfismo1"
+        },
+        {
+            "type": "java",
+            "name": "Teste2_Casting",
+            "request": "launch",
+            "mainClass": "testes.Teste2_Casting",
+            "projectName": "Polimorfismo1"
+        },
+        {
+            "type": "java",
+            "name": "Teste3_InstanceOf",
+            "request": "launch",
+            "mainClass": "testes.Teste3_InstanceOf",
+            "projectName": "Polimorfismo1"
+        },
+        {
+            "type": "java",
+            "name": "Teste4_Polimorfismo",
+            "request": "launch",
+            "mainClass": "testes.Teste4_Polimorfismo",
+            "projectName": "Polimorfismo1"
+        },
+        {
+            "type": "java",
+            "name": "TestaClasseAbstrata",
+            "request": "launch",
+            "mainClass": "testes.TestaClasseAbstrata",
+            "projectName": "Polimorfismo2ClasseAbstrata"
+        },
+        {
+            "type": "java",
+            "name": "TestaFuncionario",
+            "request": "launch",
+            "mainClass": "testes.TestaFuncionario",
+            "projectName": "ProjetoFuncionario1_3"
+        },
+        {
+            "type": "java",
+            "name": "TestaFuncionario(1)",
+            "request": "launch",
+            "mainClass": "src.testes.TestaFuncionario",
+            "projectName": "java___cee4c9e4"
+        },
+        {
+            "type": "java",
+            "name": "Teste2(1)",
+            "request": "launch",
+            "mainClass": "testes.Teste2",
+            "projectName": "java___cee4c9e4"
+        }
+    ]
+}

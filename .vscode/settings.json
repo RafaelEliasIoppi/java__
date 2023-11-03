@@ -2,5 +2,6 @@
     "java.project.sourcePaths": [
         "ProjetoFuncionario1_3",
         "Interfaces"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
