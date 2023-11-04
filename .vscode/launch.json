@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestaFuncionario3",
+            "request": "launch",
+            "mainClass": "testes.TestaFuncionario3",
+            "projectName": "Funcionario_1.6a"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

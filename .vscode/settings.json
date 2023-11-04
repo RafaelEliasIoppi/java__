@@ -1,8 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "ProjetoFuncionario1_3",
-        "Interfaces",
-        "ProjetoFuncionario1.6/Funcionario_1.6a"
+        "ProjetoFuncionario1.6"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
