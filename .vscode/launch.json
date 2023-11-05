@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aula12",
+            "request": "launch",
+            "mainClass": "testes.Aula12",
+            "projectName": "aula12"
+        },
+        {
+            "type": "java",
             "name": "TestaFuncionario3",
             "request": "launch",
             "mainClass": "testes.TestaFuncionario3",
