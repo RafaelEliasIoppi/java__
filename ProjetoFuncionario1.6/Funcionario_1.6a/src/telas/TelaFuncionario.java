@@ -3,9 +3,7 @@ package telas;
 
 
 import dominio.FuncionarioAbstrato;
-import dominio.FuncionarioFixo;
-import dominio.FuncionarioHorista;
-import dominio.FuncionarioComissionado;
+
 
 public class TelaFuncionario {
 			
