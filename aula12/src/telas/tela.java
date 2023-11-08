@@ -16,7 +16,7 @@ public class tela {
 		a.emitirSom();
 		if (a instanceof Mamifero) {
             //String corDoPelo = ((Mamifero) a).getCorPelo();
-			System.out.printf("Cor do pelo: %s\n",((Mamifero) a).getCorPelo() );
+			System.out.printf("Cor do pelo: %s\n",((Mamifero)a).getCorPelo() );
        
         } else {
             System.out.println("O animal não é um mamífero, portanto, não possui uma cor de pelo.");
